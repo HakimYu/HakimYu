@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HakimYu
 - 👀 I’m interested in programming Android APP
-- 🌱 I’m currently learning Java
-- 📫 My E-mail address is i@hakimyu.cf
+- 🌱 I’m currently learning Java and Python
 
 <!---
 HakimYu/HakimYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
