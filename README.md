@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HakimYu
-- 👀 I’m interested in programming Android APP, Mini Web Tools, Python spiders/tools
-- 🌱 I’m currently learning JavaScript and Python
+- 👀 I’m interested in programming Web Tools, Tauri Apps, Python tools
+- 🌱 I’m currently learning TypeScript and Python
 
 <!---
 HakimYu/HakimYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
