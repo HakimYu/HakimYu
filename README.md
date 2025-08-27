@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @HakimYu
-- 👀 I’m interested in programming Web Tools, Tauri Apps, Python tools
-- 🌱 I’m currently learning TypeScript, Python and C
+- 👀 I’m interested in programming Web, React Native, Tauri Applications
+- ❤️ I’m currently working in NCUHOME
 
-<!---
-HakimYu/HakimYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://komarev.com/ghpvc/?username=HakimYu&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+ #### 👨🏻‍💻 Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=ts,react,vue,vite,py,java,docker,linux,kubernetes)
